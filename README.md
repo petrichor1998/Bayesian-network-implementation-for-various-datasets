@@ -1,7 +1,7 @@
 # Comparison of Bayesian Nets and other algorithms on various dataset
 The solution to the problem in hw4.pdf has been implemented in the code file.
 
-
+## Details can be found at my [website](https://petrichor1998.github.io/Projects/)
 
 Submitted by: Parth Padalkar
 UTDID : 2021473758
